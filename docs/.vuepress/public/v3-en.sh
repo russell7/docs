@@ -4,7 +4,7 @@
 # Alist Manager Script
 #
 # Version: 1.0.0
-# Last Updated: 2024-03-19
+# Last Updated: 2024-12-24
 #
 # Description: 
 #   A management script for Alist (https://alist.nn.ci)
@@ -16,8 +16,8 @@
 #   - curl, tar
 #   - x86_64 or arm64 architecture
 #
-# Author: AlistGo
-# Repository: https://github.com/AlistGo/alist
+# Author: Troray
+# Repository: https://github.com/Troray/docs
 # License: MIT
 #
 ###############################################################################
